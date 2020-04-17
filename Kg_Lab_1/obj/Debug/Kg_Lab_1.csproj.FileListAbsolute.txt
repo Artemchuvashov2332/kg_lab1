@@ -1,0 +1,11 @@
+C:\Users\Ирина\source\repos\Kg_Lab_1\Kg_Lab_1\bin\Debug\Kg_Lab_1.exe.config
+C:\Users\Ирина\source\repos\Kg_Lab_1\Kg_Lab_1\bin\Debug\Kg_Lab_1.exe
+C:\Users\Ирина\source\repos\Kg_Lab_1\Kg_Lab_1\bin\Debug\Kg_Lab_1.pdb
+C:\Users\Ирина\source\repos\Kg_Lab_1\Kg_Lab_1\obj\Debug\Kg_Lab_1.csprojAssemblyReference.cache
+C:\Users\Ирина\source\repos\Kg_Lab_1\Kg_Lab_1\obj\Debug\Kg_Lab_1.Form1.resources
+C:\Users\Ирина\source\repos\Kg_Lab_1\Kg_Lab_1\obj\Debug\Kg_Lab_1.Properties.Resources.resources
+C:\Users\Ирина\source\repos\Kg_Lab_1\Kg_Lab_1\obj\Debug\Kg_Lab_1.csproj.GenerateResource.cache
+C:\Users\Ирина\source\repos\Kg_Lab_1\Kg_Lab_1\obj\Debug\Kg_Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\source\repos\Kg_Lab_1\Kg_Lab_1\obj\Debug\Kg_Lab_1.exe
+C:\Users\Ирина\source\repos\Kg_Lab_1\Kg_Lab_1\obj\Debug\Kg_Lab_1.pdb
+C:\Users\Ирина\source\repos\Kg_Lab_1\Kg_Lab_1\obj\Debug\Kg_Lab_1.Form2.resources
